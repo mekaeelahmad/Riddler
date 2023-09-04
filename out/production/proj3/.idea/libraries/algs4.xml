@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../library-su22/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-su22/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-su22/jh61b-junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-su22/ucb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-su22/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-su22/xchart-3.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20220807T191822Z-001/jl1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20220807T191822Z-001/jsminim.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20220807T191822Z-001/minim.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20220807T191822Z-001/mp3spi1.9.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20220807T191822Z-001/tritonus_aos.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20220807T191822Z-001/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../library-su22/algs4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20220807T191822Z-001/jl1.0.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
